@@ -7,8 +7,6 @@ applications:
     memory: 1G
     instances: 1
     timeout: 180
-    routes:
-      - route: stub-server.apps.cfd06.rabobank.nl
     env:
       JBP_CONFIG_OPEN_JDK_JRE: '{jre: { version: 17.+ } }'
       JBP_CONFIG_SPRING_AUTO_RECONFIGURATION: '{enabled: false}'
