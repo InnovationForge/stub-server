@@ -1,4 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Jul 06 11:57:56 CEST 2023
-https\://maven.rabobank.nl/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:3.1.1 from/to Rabobank Corporate Repo (https\://maven.rabobank.nl/nexus/content/groups/public)\: transfer failed for https\://maven.rabobank.nl/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-parent/3.1.1/spring-boot-starter-parent-3.1.1.pom
-@default-Rabobank\ Corporate\ Repo-https\://maven.rabobank.nl/nexus/content/groups/public/.lastUpdated=1688637476092
