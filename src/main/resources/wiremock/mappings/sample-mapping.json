@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPath": "/api/sample"
+  },
+  "response": {
+    "status": 200,
+    "body": "Hello, World!23"
+  }
+}
